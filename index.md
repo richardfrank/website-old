@@ -5,9 +5,6 @@ title: Home
 
 # Richard W. Frank
 
-
-[![](images/rich-frank-portrait-2021-cropped-1.png)](https://richardwfrank.com/wp-content/uploads/2021/08/rich-frank-portrait-2021-cropped-1.png)
-
 Hello and welcome to my website. I am a Senior Lecturer and the Research Community Coordinator in the [School of Politics and International Relations](http://politicsir.cass.anu.edu.au/people/dr-richard-w-frank) (SPIR) at the Australian National University (ANU).
 
 My research focuses on the international political economy of political violence and human rights violations.
@@ -20,5 +17,3 @@ School of Politics & International Relations
 The Australian National University  
 Acton ACT 2601  
 richard.frank (at) anu.edu.au
-
- 
