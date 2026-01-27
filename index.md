@@ -8,3 +8,9 @@ title: Home
 Welcome to my academic website.
 
 I am a political scientist at the Australian National University.
+
+[Research](/pages/research/)
+
+[Teaching](/pages/teaching/)
+
+[CV](/pages/cv/)
