@@ -1,7 +1,7 @@
 title: Richard W. Frank
 description: Senior Lecturer at the Australian National University
 url: "https://richardwfrank.com"
-baseurl: ""
+baseurl: "/website"
 
 # Build settings
 theme: minima
