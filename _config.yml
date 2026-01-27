@@ -1,0 +1,22 @@
+title: Richard W. Frank
+description: Senior Lecturer at the Australian National University
+url: "https://richardwfrank.com"
+baseurl: ""
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Author info
+author:
+  name: Richard W. Frank
+  email: richard.frank@anu.edu.au
+
+# Permalink structure for posts
+permalink: /:title/
+
+# Files to exclude from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
